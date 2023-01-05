@@ -55,3 +55,26 @@ body{
     border-radius: 1.5rem;
     font-weight: 700;
 }
+.my-stack{
+    width: 80%;
+    margin: auto;
+}
+.my-stack h1{
+    margin: 100px 0  50px 0;
+    text-align: center;
+    color: #0F4C75;
+    font-size: 30px;
+   
+}
+.stack{
+    display: flex;
+}
+.stack img{
+    width: 100%;
+    height: 100%;
+}
+.mongodb, .express, .react, .node{
+   width:25%;
+   padding: 5px;
+   box-shadow: 5px  5px  10px #BBE1FA;
+}
